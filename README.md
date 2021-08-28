@@ -1,22 +1,22 @@
 <img src="https://i.ibb.co/YLysRbF/1.jpg" alt=""/>
 
 <p>
-<a style="margin-right: 10px;" href="https://github.com/SpikeStrips/test/blob/main/README.md#%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B5">
+<a style="margin-right: 10px;" href="https://github.com/SpikeStrips/Antidisbatbot#%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B5">
 <img src="https://dabuttonfactory.com/button.png?t=О ПРОГРАММЕ&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
 </a>
 
-<a style="margin-right: 10px;" href="https://github.com/SpikeStrips/test/blob/main/README.md#%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B0-%D0%B1%D0%BE%D1%82%D0%B0-%D1%82%D1%80%D0%B5%D0%B1%D1%83%D0%B5%D1%82%D1%81%D1%8F">
+<a style="margin-right: 10px;" href="https://github.com/SpikeStrips/Antidisbatbot#%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B0-%D0%B1%D0%BE%D1%82%D0%B0-%D1%82%D1%80%D0%B5%D0%B1%D1%83%D0%B5%D1%82%D1%81%D1%8F">
 <img src="https://dabuttonfactory.com/button.png?t=ТРЕБУЕТСЯ&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
 </a>
 
-<a style="margin-right: 10px;" href="https://github.com/SpikeStrips/test/blob/main/README.md#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0">
+<a style="margin-right: 10px;" href="https://github.com/SpikeStrips/Antidisbatbot#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0">
 <img src="https://dabuttonfactory.com/button.png?t=УСТАНОВКА&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
 </a>
 
-<a style="margin-right: 10px;" href="https://github.com/SpikeStrips/test/blob/main/README.md#%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5">
+<a style="margin-right: 10px;" href="https://github.com/SpikeStrips/Antidisbatbot#%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5">
 <img src="https://dabuttonfactory.com/button.png?t=ИСПОЛЬЗОВАНИЕ&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
 </a>
-<a href="https://github.com/SpikeStrips/test/blob/main/README.md#%D0%B4%D0%B5%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B">
+<a href="https://github.com/SpikeStrips/Antidisbatbot#%D0%B4%D0%B5%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B">
 <img src="https://dabuttonfactory.com/button.png?t=ДЕМОНСТРАЦИЯ&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
 </a>
 </p>
